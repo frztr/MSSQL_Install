@@ -11,9 +11,9 @@
 <p align="center">
   <img src="Screenshots/1.png" />
 </p>
-#### Шаг 2. Запускаем программу установки Microsoft SQL Server.
+<h4> Шаг 2. Запускаем программу установки Microsoft SQL Server.
 Так как целью нашего задания является установка Microsoft SQL Server без каких либо поправок в его конфигурацию при установке и его настройка из 3-х предложенных типов установки мы выберем "Базовый".
-
+</h4>
 <p align="center">
   <img src="Screenshots/2.png" />
 </p>
